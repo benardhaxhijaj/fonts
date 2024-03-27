@@ -3,7 +3,7 @@ const SLOW_FACTOR = 20; // Adjust the factor to control the speed of slow motion
 let font;
 
 function preload() {
-  font = loadFont(`./imf/2.ttf`);
+  font = loadFont(`./fonts/SpaceGrotesk-Bold.ttf`);
 }
 
 function setup() {
